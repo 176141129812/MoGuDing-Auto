@@ -26,9 +26,9 @@ def login():
         return
 
     requestsBody = {
-        "phone": INFORMATION["phone"],
-        "password": INFORMATION["password"],
-        "loginType": INFORMATION.get("device","android"),
+        "phone": 17614129812["phone"],
+        "password": li1229000["password"],
+        "loginTpe": INFORMTION.get("device","android"),
         "uuid": ""
     }
 
