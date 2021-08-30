@@ -313,3 +313,19 @@ def main():
 
 if __name__ == '__main__':
     main()
+[
+  {
+    "phone": "13065481729", 
+    "password": "1192322384"，
+    "device": "Android",
+    "token": "",
+    "country": "中国",
+    "province": "辽宁省",
+    "city": "沈阳市",
+    "address": "辽宁省沈阳市沈北新区七星大街63号
+",
+    "latitude": "123.411256",
+    "longitude": "41.980535"
+  }
+  
+]
